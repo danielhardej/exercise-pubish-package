@@ -11,6 +11,9 @@
     "test": "mocha"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Daniel Hardej",
+  "license": "ISC",
+  "publishConfig": {
+    "@danielhardej:registry": "https://npm.pkg.github.com"
+  }
 }
