@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mocha": "^10.2.0"
+  },
+  "name": "exercise-pubish-package",
+  "description": "This exercise checks your ability to publish to a GitHub Packages registry. It is automatically graded via a workflow once you have completed the instructions.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
